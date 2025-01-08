@@ -21,7 +21,7 @@ You need to have Node.js installed on your machine. You can download it from [he
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/xxzxncuzx-me/test-task.git
 
    ```
 
